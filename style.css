@@ -34,3 +34,16 @@
     display: flex;
     justify-content: center;
 }
+
+.projects-container {
+    display: flex;
+    justify-content: center;
+    padding: 5vw;;
+}
+
+.about-container {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-family: 'Patua One', cursive;
+    font-size: 18px;
+}
